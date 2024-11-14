@@ -1,4 +1,7 @@
-Just someone who tries somethings and doesn't really succeed at them.
+I'm interested in frontend, backend and game development.
+I know some AI as well.
+mail: saivenkat06vk@gmail.com 
+discord: mr_tr1ckster23
 
 <!---
 Saivenkat-206/Saivenkat-206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
