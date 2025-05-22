@@ -1,5 +1,4 @@
-I'm interested in frontend, backend and game development.
-I know some AI as well.
+I am a developer.
 mail: saivenkat06vk@gmail.com 
 discord: mr_tr1ckster23
 
