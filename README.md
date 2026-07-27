@@ -13,6 +13,3 @@ Hi. I'm a developer who loves living life.<br>I know AI, ML and some Data Scienc
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saivenkat-206&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Saivenkat-206&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
