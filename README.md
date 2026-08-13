@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi. I'm a developer who loves living life.<br>I know AI, ML and some Data Science.<br><br>I also do good Full Stack stuff.<br><br>You can email or send me a hi on discord if you wanna talk :)
+Hi. I'm a developer who loves living life.<br>I know AI, ML and some Data Science.<br><br>I'm proficient in Full Stack development.<br><br>You can email or send me a hi on discord if you wanna talk :)
 
 
 ## 🌐 Socials:
